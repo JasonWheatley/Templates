@@ -2,7 +2,7 @@
 /**
  * @file
  * @author  J.L. Wheatley
- * @brief   Functions for commanding Steeper Motor Driver
+ * @brief   TODO:
  * @details TODO:
  */
 /* ************************************************************************** */
