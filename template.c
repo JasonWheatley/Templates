@@ -32,7 +32,6 @@
 
 /* -------------------------------------------------------------------------- */
 /**
- * @fn         void myPublicFunction(args)
  * @brief      TODO:
  * @details    TODO:
  * @param[in]  
@@ -54,7 +53,6 @@ void myPublicFunction(args)
 
 /* -------------------------------------------------------------------------- */
 /**
- * @fn         static void myFunction(args)
  * @brief      TODO:
  * @details    TODO:
  * @param[in]  
